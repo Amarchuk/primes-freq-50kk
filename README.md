@@ -1,4 +1,4 @@
-# First 50 000 000 Primes Last Digit Frequencies
+# First 50 000 000 Primes Last Digit Sequence Frequencies
 
 Inspired by this [article](https://www.quantamagazine.org/20160313-mathematicians-discover-prime-conspiracy/) and [paper on arxiv](http://arxiv.org/pdf/1603.03720v1.pdf).
 Get data from [primes.ut.edu](https://primes.utm.edu/lists/small/millions/) (~500 Mb unzipped!).
